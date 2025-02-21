@@ -1,0 +1,2 @@
+x = 'eyad'
+print(x)
